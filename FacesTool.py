@@ -1,4 +1,4 @@
-#A. Schwartz
+#C.Lawn
 #8.17.22
 #This code takes a list of WashU students names in a google spreadsheet
 
